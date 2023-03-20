@@ -1,5 +1,3 @@
-![](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
-
 ## Olá, me chamo Vinicius Anjos ! 
 
 > ## Bem vindo ao meu perfil 👋
