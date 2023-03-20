@@ -1,5 +1,9 @@
 ## Olá, me chamo Vinicius Anjos ! 
 
+![](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
+
+<br>
+
 > ## Bem vindo ao meu perfil 👋
 
 - 🔭 No momento trabalho com back-end web
@@ -15,7 +19,7 @@
 
 > ## Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,cpp,git,github,figma,linux)](https://skillicons.dev)
 
 <br>
 
